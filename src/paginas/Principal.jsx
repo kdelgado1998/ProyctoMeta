@@ -6,7 +6,7 @@ export const Principal = () => {
             <section className="conoce">
                 <h2><span>Conoce más</span> Sobre Nosotros</h2>
                 <div className="testimonial">
-                    <p>Meta es una iniciativa de capacitación a través de <span>talleres</span> impartidos por jóvenes.Con el objetivo de que más personas logremos desenvolvernos con <span>éxito</span> en los diversos entornos que influenciamos: familia, trabajo, centro de estudio, sociedad, entre nosotros.</p>
+                    <p>META es una iniciativa de capacitación a través de <span>talleres</span> impartidos por jóvenes.Con el objetivo de que más personas logremos desenvolvernos con <span>éxito</span> en los diversos entornos que influenciamos: familia, trabajo, centro de estudio, sociedad, entre nosotros.</p>
                     <p></p>
                 </div>
             </section>
