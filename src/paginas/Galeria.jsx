@@ -34,7 +34,7 @@ export const Galeria = () => {
                         <img src="/img/meta-11.jpg" alt="galeria" />
                     </div>
                     <div className="imagen">
-                        <img src="/img/meta-12.jpeg" alt="galeria" />
+                        <img src="/img/meta-12.jpg" alt="galeria" />
                     </div>
                 </div>
             </section>
